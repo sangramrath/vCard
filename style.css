@@ -1,4 +1,5 @@
 body {
+  background-image: url("http://www.sclance.com/backgrounds/gray-background-pattern/gray-background-pattern_1113464.jpg");
   font-family: 'Lexend Peta', sans-serif;
   font-size: 12px;
 }
@@ -94,14 +95,15 @@ li a.active {
   display: grid;
   grid-template-columns: 1fr 6fr 1fr 2fr .25fr 2fr 1fr;
   grid-auto-rows: minmax(50px, auto);
-  border: 1px solid #4CAF50;
   margin-bottom: 20px;
+  background-color: white;
 }
 
 .grid-zone-verte {
   grid-column: 1 / 8;
   grid-row: 1 / 5;
-  background-color: #4CAF50;
+  background: rgb(36,69,37);
+  background: linear-gradient(90deg, rgba(36,69,37,1) 0%, rgba(76,175,80,1) 35%, rgba(139,209,75,1) 100%);
 }
 
 .grid-photo {
