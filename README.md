@@ -1,5 +1,2 @@
-# VCard
-## html-css / 6 - Vcard en HTML
-
-https://piralimic.github.io/VCard/<br><br>
-https://cssgradient.io/
+# vCard
+## html-css / 6 - vCard en HTML
